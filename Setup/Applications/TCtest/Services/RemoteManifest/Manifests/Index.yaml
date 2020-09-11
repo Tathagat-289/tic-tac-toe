@@ -3,7 +3,7 @@ type: APPLICATION_MANIFEST
 gitFileConfig:
   branch: master
   connectorName: tcGitConnector
-  filePath: https://github.com/Tathagat-289/tic-tac-toe/tree/master/Setup/Applications/TCtest
+  filePath: Setup/Applications/TCtest
   repoName: tic-tac-toe
   useBranch: true
 storeType: Remote
