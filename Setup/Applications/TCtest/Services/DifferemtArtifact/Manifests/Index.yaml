@@ -1,3 +1,9 @@
 harnessApiVersion: '1.0'
 type: APPLICATION_MANIFEST
-storeType: Local
+gitFileConfig:
+  branch: master
+  connectorName: tcGitConnector
+  filePath: https://github.com/Tathagat-289/tic-tac-toe/tree/master/Setup/Applications/TCtest
+  repoName: tic-tac-toe
+  useBranch: true
+storeType: Remote
