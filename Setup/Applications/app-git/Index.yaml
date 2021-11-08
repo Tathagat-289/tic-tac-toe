@@ -1,0 +1,6 @@
+harnessApiVersion: '1.0'
+type: APPLICATION
+branchName: master
+gitConnector: git-sync-yamlconfigtest
+isGitSyncEnabled: true
+repoName: tic-tac-toe
