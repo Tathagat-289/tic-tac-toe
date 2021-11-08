@@ -1,6 +1,0 @@
-harnessApiVersion: '1.0'
-type: APPLICATION
-branchName: master
-gitConnector: account-level-ssh-terraform
-isGitSyncEnabled: true
-repoName: tic-tac-toe
